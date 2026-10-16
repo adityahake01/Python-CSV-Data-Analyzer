@@ -31,10 +31,12 @@ No additional Python packages are required.
 ## Project Structure
 
 ```text
+
 CSV_Data_Analyzer/
 ├── main.py
 ├── sales.csv
 ├── test_sales.csv
+├── zero_sales.csv
 └── README.md
 ```
 
