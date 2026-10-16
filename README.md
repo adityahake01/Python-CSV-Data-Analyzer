@@ -75,10 +75,12 @@ python main.py
 
 To analyze a different file, replace `"sales.csv"` with the required filename, such as `"test_sales.csv"`.
 
+
 ## Example Output
 
 For the six-product sample dataset in `sales.csv`:
 
+```text
 ========================================
          SALES ANALYSIS REPORT
 ========================================
@@ -90,6 +92,9 @@ Top Revenue Product   : Laptop
 Highest Revenue       : Rs. 50,000
 Invalid Rows Skipped  : 0
 ========================================
+```
+
+
 
 ## Functions Used
 
